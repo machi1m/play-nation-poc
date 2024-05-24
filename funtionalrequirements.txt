@@ -1,2 +1,10 @@
-Play Nation
-Matches players of all sorts like tinder based on location and sport
+Play Nation (should be available in ios, android and web)
+Match players of all sorts like tinder based on location, sport, other players reviews.
+Filters like Gender, age, distance range should be available.
+Chat feature also should be available.
+Every Player should have score based on his performances in previous matches and reviews from other players.
+Review from beginner player should have less weightage than advanced player.
+Beginner vs Advanced player is not flags but a spectrum of score from 1 to 5.
+Add a feature to conduct a match and after parties.
+Add a feature to have score boards for umpire.
+ML Umpire should be available for taking important decisions with the help of iphone camera.
